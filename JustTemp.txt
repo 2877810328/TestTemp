@@ -2,6 +2,8 @@ Just Temp haha
 
 more one!!!   change!
 
-Test Commit 1
+Test Commit 1  changeOne
 
-Test Commit 2
+Test Commit 2  changeTwo
+
+changeThree!!!
